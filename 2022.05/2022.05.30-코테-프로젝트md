@@ -1,0 +1,61 @@
+# Today I Learned
+> 목표가 불 분명한건 아닐까..
+
+---
+
+### Categories
+- [코테연습](#코테)
+- [스윗한 SwiftUI](#교재)
+- [PSE](#프로젝트)
+
+---
+
+## 코테
+프로그래머스 연습문제 Lv 2 풀이   
+[방문길이](https://keeplo.tistory.com/466)
+
+### 교재
+### Chapter 06 커스터마이징
+#### 6-2 실전 앱 구현하기
+1. 커스텀 뷰 만들기
+2. 버튼 스타일 추가하기
+3. 팝업 구현하기
+4. 빠른 주문 기능 구현하기
+5. 기본 UI 색상 변경하기
+### Chapter 07 스크롤 뷰와 탭 뷰 추가하기
+#### 7-1 기본기 다지기
+1. ScrollView
+2. TabView
+#### 7-2 실전 앱 구현하기
+1. 즐겨찾기 상품 목록 구현하기 (20)
+    * FavoriteProductScrollView 구현
+    * 스크롤 뷰 추가
+2. 탭 뷰 추가하기 (21)
+    * accentColor 수정
+    * 레이아웃 조정
+3. 리스트 UI 수정하기 (22)
+    * listRowBackground
+    * 리스트 배경색 변경
+        * listRowBackground
+        * backgroundColor
+
+## 프로젝트
+### Settings
+* 이메일 보내기
+    [SwiftUIMailView](https://github.com/globulus/swiftui-mail-view)
+    를 보고 간단하게 구현해봄 #시뮬레이터에서 동작안됨
+### Notes
+* 단어장 구현방식 고민
+
+---
+
+### TODO LiIST
+- [x] 코테 문제 연습
+- [x] Articles 읽기 (3개 이상)
+
+### 참고링크 정리
+
+### Articles
+- [x] [SwiftUI Disclosure Indicator in List](https://swiftuirecipes.com/blog/swiftui-disclosure-indicator-in-list)
+- [x] [스티브 잡스 생전 마지막 인터뷰 어록 @D8 Conference 2010](https://soojin.ro/blog/steve-jobs-d8-interview)
+- [x] [기술 부채도 자산인 이유](https://soojin.ro/blog/technical-debt)

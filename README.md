@@ -11,4 +11,4 @@ Today I Leard 공부기록 남기기
 *  05.24 ~ 11.15
    [Notion Open Page - 야곰 커리어 스타터](https://keeplo.notion.site/b83e4f0e03144994ab5b659000bc6f88)  
 #### 2022
-[2월](https://github.com/keeplo/TIL/tree/main/2022/2022.02)  [3월](https://github.com/keeplo/TIL/tree/main/2022/2022.03)  [4월](https://github.com/keeplo/TIL/tree/main/2022/2022.04)  [5월](https://github.com/keeplo/TIL/tree/main/2022/2022.05)  [6월](https://github.com/keeplo/TIL/tree/main/2022/2022.06)  [7월](https://github.com/keeplo/TIL/tree/main/2022/2022.07)
+[2월](https://github.com/keeplo/TIL/tree/main/2022/2022.02)  [3월](https://github.com/keeplo/TIL/tree/main/2022/2022.03)  [4월](https://github.com/keeplo/TIL/tree/main/2022/2022.04)  [5월](https://github.com/keeplo/TIL/tree/main/2022/2022.05)  [6월](https://github.com/keeplo/TIL/tree/main/2022/2022.06)  [7월](https://github.com/keeplo/TIL/tree/main/2022/2022.07)  [8월](https://github.com/keeplo/TIL/tree/main/2022/2022.08)
